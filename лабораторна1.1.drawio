@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.5">
+  <diagram name="Lab2_Fatko" id="thr6Ga86T_yH6dNYdmwu">
+    <mxGraphModel dx="851" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-246" value="Дерево функцій" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;swimlaneFillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="275" width="900" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-247" value="Виконати лабораторну роботу" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="395" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-248" value="Підготувати все необхідне" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="95" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-249" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-247" target="TZ9-BrxyNXrxJJH3Rf30-248" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-250" value="Виконати" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="395" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-251" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-247" target="TZ9-BrxyNXrxJJH3Rf30-250" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-252" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-247" target="TZ9-BrxyNXrxJJH3Rf30-253" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-731" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-253" value="Проконтролювати виконання" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="695" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-254" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-248" target="TZ9-BrxyNXrxJJH3Rf30-255" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-591" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-255" value="Підготувати завдання" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="20" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-256" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-248" target="TZ9-BrxyNXrxJJH3Rf30-257" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-731" y="312" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-257" value="Підготувати робочі місця" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="170" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-258" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-250" target="TZ9-BrxyNXrxJJH3Rf30-259" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-353" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-259" value="Ознайомитися із завданням" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="320" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-260" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-250" target="TZ9-BrxyNXrxJJH3Rf30-261" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-318" y="312" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-261" value="Виконати завдання" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="470" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-262" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-253" target="TZ9-BrxyNXrxJJH3Rf30-263" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-45" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-263" value="Відмітити присутніх" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="620" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-264" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" parent="TZ9-BrxyNXrxJJH3Rf30-246" source="TZ9-BrxyNXrxJJH3Rf30-253" target="TZ9-BrxyNXrxJJH3Rf30-265" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="312" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ9-BrxyNXrxJJH3Rf30-265" value="Проконтролювати виконання завдання" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFF99;" parent="TZ9-BrxyNXrxJJH3Rf30-246" vertex="1">
+          <mxGeometry x="770" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
